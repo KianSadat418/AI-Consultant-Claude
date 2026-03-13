@@ -13,6 +13,8 @@ import os
 import sys
 import json
 import re
+from dotenv import load_dotenv
+load_dotenv()
 
 try:
     import requests
