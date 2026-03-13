@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated analysis files (these are outputs, not source)
+MARKET-SIZING.md
+INDUSTRY-TRENDS.md
+COMPETITIVE-LANDSCAPE.md
+CUSTOMER-PERSONAS.md
+SWOT-ANALYSIS.md
+GTM-PLAYBOOK.md
+PRICING-STRATEGY.md
+RISK-ASSESSMENT.md
+CUSTOMER-JOURNEY.md
+UNIT-ECONOMICS.md
+FINANCIAL-MODEL.md
+FUNDRAISING-STRATEGY.md
+PITCH-DECK-BRIEF.md
+LEGAL-STRUCTURE.md
+EQUITY-STRUCTURE.md
+MARKET-ENTRY.md
+COMPANY-ANALYSIS.md
+STRATEGY-SYNTHESIS.md
+
+# Agent intermediate outputs
+_agent-*-output.json
+
+# User context files
+CONTEXT.md
