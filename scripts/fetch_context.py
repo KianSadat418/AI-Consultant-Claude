@@ -9,6 +9,8 @@ import os
 import sys
 import re
 import json
+from dotenv import load_dotenv
+load_dotenv()
 
 
 REQUIRED_FIELDS = [
