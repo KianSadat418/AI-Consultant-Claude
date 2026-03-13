@@ -63,7 +63,7 @@ else
     # Clone to temp directory
     TEMP_DIR=$(mktemp -d)
     echo -e "\n${BOLD}Cloning repository...${NC}"
-    git clone --quiet https://github.com/YOUR_USERNAME/founder-claude.git "$TEMP_DIR"
+    git clone --quiet https://github.com/KianSadat418/AI-Consultant-Claude.git "$TEMP_DIR"
     SOURCE_DIR="$TEMP_DIR"
     echo -e "  ${GREEN}✓${NC} Repository cloned"
 fi
