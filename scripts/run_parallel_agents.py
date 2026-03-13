@@ -20,6 +20,8 @@ import json
 import asyncio
 import time
 from pathlib import Path
+from dotenv import load_dotenv
+load_dotenv()
 
 try:
     import anthropic
