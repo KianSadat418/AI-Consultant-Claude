@@ -13,7 +13,7 @@ Drop a `CONTEXT.md` file with your company details, run `/founder analyze`, and 
 ### Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/founder-claude/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/KianSadat418/AI-Consultant-Claude/main/install.sh | bash
 ```
 
 ### Setup
